@@ -6,6 +6,12 @@
     "url": "https://www.freecodecamp.org"
   },
   {
+    "id": "believemy",
+    "title": "Believemy",
+    "img" "/images/believemy.svg",
+    "url": "https://believemy.com"
+  },
+  {
     "id": "grafikart",
     "title": "Grafikart",
     "img": "images/grafikart.jpg",
