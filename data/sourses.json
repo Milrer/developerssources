@@ -10,6 +10,46 @@
     "technologiesId": [ "javascript", "htmlcss", "react", "bootstrap", "sass", "jquery", "redux", "d3", "nodejs", "express", "mongodb", "mongoose", "helmetjs", "chai" ]
   },
   {
+    "websiteId": "believemy",
+    "title": "Formation HTML CSS",
+    "url": "https://believemy.com/formations/formation-html",
+    "desc": "Faites vos premiers pas dans le web avec HTML5 et CSS3 avec flexbox et les grilles puis initiez-vous enfin au webdesign pour créer votre premier portfolio professionnel.",
+    "languages": ["french"],
+    "likes": [],
+    "level": { "from": "easy", "to": "advanced" },
+    "technologiesId": [ "htmlcss" ]
+  },
+  {
+    "websiteId": "believemy",
+    "title": "Formation JavaScript",
+    "url": "https://believemy.com/formations/formation-javascript",
+    "desc": "Créez des sites internet dynamiques grâce à notre formation JavaScript partant de zéro et explorez toutes les dernières nouveautées du langage de programmation le plus populaire des développeurs web.",
+    "languages": ["french"],
+    "likes": [],
+    "level": { "from": "easy", "to": "advanced" },
+    "technologiesId": [ "javascript" ]
+  },
+  {
+    "websiteId": "believemy",
+    "title": "Formation React",
+    "url": "https://believemy.com/formations/formation-react",
+    "desc": "Apprenez React 19 en 2025 avec des projets concrets, maîtrisez les Hooks et l'API Context. Formation certifiante pour développeurs tous niveaux.",
+    "languages": ["french"],
+    "likes": [],
+    "level": { "from": "easy", "to": "advanced" },
+    "technologiesId": [ "react" ]
+  },
+  {
+    "websiteId": "believemy",
+    "title": "Formation NextJS",
+    "url": "https://believemy.com/formations/formation-nextjs",
+    "desc": "Découvrez comment créer des sites internet plus rapidement et facilement, de manière full-stack et avec une SEO optimisée à la perfection pour les moteurs de recherche avec NextJS 15",
+    "languages": ["french"],
+    "likes": [],
+    "level": { "from": "easy", "to": "advanced" },
+    "technologiesId": [ "nextjs" ]
+  },
+  {
     "websiteId": "grafikart",
     "title": "Formation HTML",
     "url": "https://www.grafikart.fr/formations/html",
